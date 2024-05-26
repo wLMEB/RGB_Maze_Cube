@@ -1,5 +1,5 @@
 RGB Maze Cube
 ============
 
-This is a code repository for CICS 256 final project. 
+This repository serves as a code archive for CICS256 final project. \
 For more information on the project, please visit: https://sites.google.com/umass.edu/rgb-cube-maze/home
